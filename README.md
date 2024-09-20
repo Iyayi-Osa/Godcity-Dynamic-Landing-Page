@@ -37,7 +37,7 @@ Godcity is a comprehensive Church Management System designed to streamline churc
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/EASYNET-TELSURVE-CO/Godcity.git
+git clone (https://github.com/Iyayi-Osa/Godcity-Dynamic-Landing-Page.git)
 cd Godcity
 ```
 
